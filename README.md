@@ -48,4 +48,4 @@ qualification evidence; the described acceptance cases remain unrun.
 
 ## License
 
-[Apache License 2.0](LICENSE).
+[Apache License 2.0](LICENSE); see [NOTICE](NOTICE).
